@@ -1,0 +1,10 @@
+#logo{
+    background-image: url("./images/logoDarkHause.webp");
+    background-size: 100% 100%;
+    width: 200px;
+}
+
+.borderRadius
+{
+    border-radius: 10% 200% 200px 0px;
+}
